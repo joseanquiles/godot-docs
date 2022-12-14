@@ -19,7 +19,7 @@ y no ofrece retos. Varios aspectos hacen este problema peor como:
 -  Animar varios componentes de pantalla, para hacerlo parecer menos
    estatico.
 
-La programacion GUI es ona de las principales causas de frustracion
+La programacion GUI es una de las principales causas de frustracion
 de los programadores. Durante el desarrollo de Godot (y previas
 iteraciones del motor), varias tecnicas y filosoficas para el
 desarrollo UI fueron puestas en practica, como un modo inmediato,
